@@ -35,6 +35,8 @@ creator:
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38411#Froth
 gutenberg_issued: '2011-12-26'
 gutenberg_type: Text
 identifiers:
